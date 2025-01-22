@@ -1,0 +1,6 @@
+flask
+fastapi
+websockets
+openai
+google-cloud-speech
+fpdf
